@@ -4,4 +4,4 @@ First version of OpenCV_Android project..
 
 ## GLESDemo
 Create a new activity to render a basic shape in the camera frame.
-local commit
+remote commit
